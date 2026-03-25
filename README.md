@@ -9,7 +9,7 @@ A lightweight, vanilla JavaScript solution to automatically lock user sessions a
 * **Visual Warning:** Beautiful countdown modal using **SweetAlert2**.
 * **Performance Optimized:** Uses event throttling for `mousemove` to save CPU resources.
 * **Secure:** Automatically triggers a backend API call to lock the session before redirecting.
-
+<img width="473" height="327" alt="image" src="https://github.com/user-attachments/assets/fa58a86d-e7c1-4d23-9bd8-f0f524c3ccd4" />
 ---
 
 ## 🚀 1. Core Implementation (`idle-lock.js`)
@@ -86,3 +86,5 @@ Include this script in your project. It monitors activity and handles the lockin
     });
   }
 })();
+```
+
